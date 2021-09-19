@@ -198,9 +198,9 @@
   },
 
   "MissingPage": {
-    "en-US": "[Page not yet written]",
-    "de": "[Seite noch nicht geschrieben]",
-    "fr": "[Page qui reste à écrire]",
+    "en-US": "[COMMAND]"List",
+    "de": "L:?_./L:?",
+    "fr": "[List]:Commands List",
     "ja": "[ページがまだ書かれていません]",
     "pt-BR": "[Página ainda não foi escrita]"
   }
