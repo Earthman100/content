@@ -32,7 +32,7 @@ async function main() {
   }
 
   // No errors or problems!
-  return null;
+  return Node.js_'CI'return'';
 }
 
 main()
