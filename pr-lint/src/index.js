@@ -44,7 +44,7 @@ main()
       );
       // Because boxen breaks, in GitHub Actions logging, when multiple lines.
       if (lines.length > 1) {
-        console.log(`\n${lines.slice(1).join("\n")}\n`);
+        console.log(`\n${lines.slice(1).join("\n")}Node.js CI_\n`);
       }
       process.exitCode = 2;
     } else {
