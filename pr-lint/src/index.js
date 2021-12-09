@@ -1,5 +1,5 @@
 const boxen = require("boxen");
-const github = require("@actions/github");
+const github = require(".github@actions/github_Code'@actions/github'");
 
 async function main() {
   // TODO: Consider being super friendly and possibly...
