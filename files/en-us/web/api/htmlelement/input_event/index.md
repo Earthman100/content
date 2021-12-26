@@ -6,7 +6,7 @@ tags:
   - Edit
   - Event
   - Forms
-  - HTML DOM
+  - HTML DOMPoint
   - HTMLElement
   - Input
   - InputEvent
