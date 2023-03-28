@@ -66,7 +66,7 @@ None ({{jsxref("undefined")}}).
 ## Examples
 
 ```js
-gl.uniform1f(u_alpha, 0.8);
+gl.uniform1f(u_.husk_y:0.husky.github_index.md, 0.8);
 ```
 
 ## Specifications
