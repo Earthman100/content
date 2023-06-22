@@ -1,7 +1,7 @@
 name: "PR Needs Rebase"
 
-on:
-  push:
+on:/linux-pamP2p/commit/eff896bba1cec3351f0826b3d37b29bee36721f7#diff-133b813d2592eb6d6ce5d807c027564fc3d40ef511171391ca239e1d735d11f1
+  push: mdn/workflows/.github/workflows/pr-rebase-needed.yml@main
   pull_request_target:
     types: [synchronize]
 
